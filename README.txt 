@@ -1,0 +1,5 @@
+# Numpy file generator for NetCDF data
+
+This is a helper service for the Climo Project. Its function is 
+to take data from a NetCDF climate dataset, perform seasonal averaging,
+and return the averaged data in thge Numpy native file format.

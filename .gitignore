@@ -1,0 +1,6 @@
+nc_files/*
+numpy_files/*
+venv/
+__pycache__/
+*.pyc
+.vscode/
